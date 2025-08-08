@@ -1,4 +1,4 @@
-![Banner](https://ibb.co.com/mZ2RjX1)
+https://ibb.co.com/mZ2RjX1
 
 # 👋 Hi, I'm Mohammad Rafii
 ### 💻 Full Stack Web Developer | MERN Stack Enthusiast
