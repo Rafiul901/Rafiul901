@@ -52,7 +52,6 @@ I'm an enthusiastic web application developer using the MERN stack.
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 
