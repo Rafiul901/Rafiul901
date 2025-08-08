@@ -1,7 +1,7 @@
-https://i.ibb.co.com/1yP0gdh/Gemini-Generated-Image-tji938tji938tji9.png
+![Banner](https://i.ibb.co/1yP0gdh/Gemini-Generated-Image-tji938tji938tji9.png)
 
 # 👋 Hi, I'm Mohammad Rafii
-### 💻 Full Stack Web Developer | MERN Stack Enthusiast
+### 💻 MERN Stack Developer 
 
 ---
 
