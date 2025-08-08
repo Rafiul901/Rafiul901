@@ -1,21 +1,21 @@
 ![Banner](https://i.ibb.co/1yP0gdh/Gemini-Generated-Image-tji938tji938tji9.png)
 
-# 👋 Hi, I'm Mohammad Rafii
-### 💻 MERN Stack Developer 
+# Md. Rafiul Hasan
+### MERN Stack Developer 
 
 ---
 
-## 🧠 About Me
-I am a passionate full stack developer who loves building web applications.  
-Currently learning new technologies and sharpening problem-solving skills.  
-Always eager to contribute to meaningful open-source projects.
+##  About Me
+I'm an enthusiastic web application developer using the MERN stack.  
+ At the moment, developing problem-solving abilities and learning new technology.  
+ I'm constantly excited to contribute to worthwhile open-source projects.
 
 ---
 
-## 🚀 Currently Working On
-- 🌍 A tourism website with Next.js
-- 🔐 Practicing JWT authentication in MERN stack
-- 📚 Building small projects to improve backend skills
+##  Currently Working On
+-  I am exploring Next.js
+-  Practicing JWT authentication in MERN stack
+-  Building small projects to improve backend skills
 
 ---
 
@@ -45,7 +45,7 @@ Always eager to contribute to meaningful open-source projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
 
 ---
 
