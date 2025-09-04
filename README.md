@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/1yP0gdh/Gemini-Generated-Image-tji938tji938tji9.png)
+![Banner](https://i.ibb.co.com/tMvhHLdb/Leonardo-Phoenix-10-A-sleek-futuristic-banner-design-in-deep-n-1-2.jpg)
 
 # Md. Rafiul Hasan
 ### MERN Stack Developer 
