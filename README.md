@@ -44,7 +44,7 @@ I'm an enthusiastic web application developer using the MERN stack.
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Rafiul901)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rafiul-hasan-b1057a288/)
 
 
 ---
